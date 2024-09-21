@@ -1,1 +1,1 @@
-# Prodigal-UI
+# Prodigal
